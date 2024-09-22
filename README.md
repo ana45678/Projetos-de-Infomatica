@@ -1,0 +1,1 @@
+Este repositório contém as postagens e o desenvolvimento dos trabalhos realizados durante as aulas de informática. O objetivo é compartilhar os exercícios e projetos desenvolvidos ao longo do curso, permitindo um acompanhamento contínuo do progresso e o aprendizado colaborativo.
